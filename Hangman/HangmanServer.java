@@ -1,4 +1,5 @@
 /* Jack Erlandson
+   CMSCI 355
    Fall 2021
    Hangman Project: Server
 */

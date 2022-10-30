@@ -1,0 +1,3 @@
+[]Does your animal have fins?
+[Y]Dolphin
+[N]Lion

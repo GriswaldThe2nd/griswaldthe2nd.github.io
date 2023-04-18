@@ -1,4 +1,4 @@
-### Summary
+# Summary
 These are mainly my projects from college and some other things I do in my free time.
 
 ## Animal Guessing Game
